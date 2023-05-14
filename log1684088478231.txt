@@ -1,0 +1,44 @@
+May 14, 2023 11:51:18 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Creating URL object with the API endpoint
+May 14, 2023 11:51:18 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Setting up a connection with MBTA API
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Destination
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Route
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Calculating Mintutes until departure
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Number of departures fetched : 1
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Destination
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Route
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Calculating Mintutes until departure
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Number of departures fetched : 2
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Destination
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Route
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Calculating Mintutes until departure
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Number of departures fetched : 3
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Destination
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Route
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Calculating Mintutes until departure
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Number of departures fetched : 4
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Destination
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Fetching Route
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Calculating Mintutes until departure
+May 14, 2023 11:51:20 PM com.Knimbus.MBTA.DeparturesFromParkStreet getSchedule
+INFO: Number of departures fetched : 5
